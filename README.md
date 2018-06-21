@@ -2,7 +2,7 @@
 - by m0ses
 - 'gr@zyna' is tracking tool to find IP adresses of domains
 
-#### Before using gr@zyna
+#### Before using gr@zyna:
 ```
 sudo apt-get install curl
   
