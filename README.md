@@ -1,4 +1,4 @@
-#### gr@zyna v1.1
+# gr@zyna v1.1
 - by m0ses
 - 'gr@zyna' is tracking tool to find IP adresses of domains
 
